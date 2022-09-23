@@ -12,3 +12,7 @@ foreach ($numbers as $number) {
         echo "<br>";
     }
 }
+
+?>
+
+<h1>git php</h1>
